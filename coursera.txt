@@ -1,0 +1,90 @@
+What is the primary difference between machine learning and deep learning?
+
+Machine learning is only used for numerical data and cannot be used for images
+
+
+
+Machine learning automatically extracts trainable features
+
+
+
+Deep learning is a subset of machine learning well-suited to complex analyses
+
+
+Many interacting computational layers allow deep learning models to tackle complex problems.
+
+1 / 1 point
+2.
+Question 2
+How do Convolutional Neural Networks extract useful information from images?
+
+By analyzing each pixel independently of neighboring pixels
+
+
+
+By ignoring spatial information
+
+
+
+By performing convolution to learn and extract features
+
+
+Convolution enables CNNs to capture patterns and details crucial for interpreting images. 
+
+1 / 1 point
+3.
+Question 3
+What is the purpose of activation layers in CNNs?
+
+To reduce the size of outputs
+
+
+
+To identify and forward important information
+
+
+
+To learn complex relationships between features
+
+
+This better describes fully-connected layers.
+
+1 point
+4.
+Question 4
+Which of the following describes the function of a pooling layer?
+
+
+It reduces the size of outputs
+
+
+This reduction helps consolidate information from extracted features, letting the model extract more large-scale and abstract features.
+
+
+It performs convolution to learn and extract features
+
+
+
+It adds noise to the data
+
+
+1 / 1 point
+5.
+Question 5
+Why do CNNs repeat convolution, activation, and pooling layers many times?
+
+
+To slow down the training process
+
+
+
+To capture complex features
+
+
+As a general rule, networks with more convolutional layers will be able to extract more complex features.
+
+
+To eliminate the need for fully connected layers
+
+
+1 / 1 point
